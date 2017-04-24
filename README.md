@@ -3,9 +3,8 @@ tweet from your shell.
 
 `$ tweet '#twiiter from the #cli is awesome!' `
 
-I like tweeting from the command-line. 
-it is a nice to have for bot apps as you do not need to include the actual twitter code, 
-just have this tool system-wide. 
+I like tweeting from the command-line, just have this tool system-wide.
+Also a nice to have for bot apps.
 
 ## missing features: 
 * override credentials with additional arguments
