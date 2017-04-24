@@ -5,7 +5,7 @@ tweet from your shell.
 
 I like tweeting from the command-line. 
 it is a nice to have for bot apps as you do not need to include the actual twitter code, 
-just have this tool system-wide and foxus on your bot code. 
+just have this tool system-wide. 
 
 ## missing features: 
 * override credentials with additional arguments
